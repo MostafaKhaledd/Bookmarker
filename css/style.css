@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.border_vip{
+    border: .1875rem white solid;
+    border-left: 0;
+    border-right: 0;
+}
+.w_95{
+    width: 95%;
+}
+.w_80{
+    width: 80%;
+}
+.background_vip{
+background-image: linear-gradient(to bottom, #0dcaf0, #00aeff, #008dff, #0065ff, #0d21f0);
+}
+.fs_vip{
+    font-size: 0.8rem;
+}
